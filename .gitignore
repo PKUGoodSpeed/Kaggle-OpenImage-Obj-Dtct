@@ -1,0 +1,41 @@
+# Various
+sandbox*.py
+
+# Data for TensorFlow
+instance/
+data/
+checkpoints/
+checkpoints*
+logs/
+summary/
+embs/
+submissions/
+instance/
+
+# PyCharm
+.idea/
+
+# Mac IOS
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IPython Notebook
+.ipynb_checkpoints
+25000/
+.ipyno_launch/
+
+# For other big data file
+feats/
+
+# Executables
+apps/
+*.exe
+
+*.hdf5
+*.h5
+*.pyc
+*.database
