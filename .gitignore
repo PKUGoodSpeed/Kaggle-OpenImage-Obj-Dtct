@@ -11,7 +11,8 @@ summary/
 embs/
 submissions/
 instance/
-
+pretrained/
+output/
 # PyCharm
 .idea/
 
